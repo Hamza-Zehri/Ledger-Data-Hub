@@ -55,17 +55,17 @@ To help visualize the project, here are some key screenshots:
 1. Ledger Template Overview
 This screenshot shows the Ledger.xlsx - Template.csv file, illustrating the expected column headers and structure for all ledger entries.
 
-![Ledger Template Overview](assets/template.png)
+![Ledger Template Overview](template.png)
 
 2. Individual Ledger Entries Example
 This screenshot displays a sample of data from one of the Ledger.xlsx - Person X.csv files, demonstrating how individual transactions are recorded.
 
-![Individual Ledger Entries Example](assets/sample.png)
+![Individual Ledger Entries Example](sample.png)
 
 3. Data Loading in Python
 This screenshot captures the Python example from the "Usage" section, showing the code and its output in a terminal or code editor, verifying basic data loading and processing.
 
-![Data Loading in Python](assets/index.png)
+![Data Loading in Python](index.png)
 
 Usage
 You can use these CSV files for various purposes:
